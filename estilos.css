@@ -1,10 +1,11 @@
 html {
-    text-align: center;
+    
     background-color: pink;
 }
 .art1 ,.art2 {
     background-color: whitesmoke;
     margin: 30px;
+    text-align: center;
 }
 
 .art1 h1 {
@@ -12,4 +13,28 @@ html {
     margin-right: 150px;
     margin-left: 150px;
 
+}
+
+#titulo{
+    text-align: center;
+    background-color: cadetblue;
+    font-size: 40px;
+    margin: 0px 150px 50px 150px;
+    position: sticky;
+}
+
+#indice {
+    left: 15px;
+    position: sticky;
+    top: 60px;
+    background-color: cadetblue;
+    border: black 1px solid;
+    width: 140px;
+    
+    
+}
+
+#indice a {
+    color: red;
+    text-decoration: none;
 }
