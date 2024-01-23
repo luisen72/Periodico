@@ -1,0 +1,15 @@
+html {
+    text-align: center;
+    background-color: pink;
+}
+.art1 ,.art2 {
+    background-color: whitesmoke;
+    margin: 30px;
+}
+
+.art1 h1 {
+    background-color: palevioletred;
+    margin-right: 150px;
+    margin-left: 150px;
+
+}
