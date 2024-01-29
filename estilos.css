@@ -12,7 +12,12 @@ html {
     background-color: palevioletred;
     margin-right: 150px;
     margin-left: 150px;
+    color: white;
 
+}
+
+.art2 h1{
+    color: palevioletred;
 }
 
 #titulo{
@@ -35,6 +40,16 @@ html {
 }
 
 #indice a {
+    color: red;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    
+}
+
+footer a {
     color: red;
     text-decoration: none;
 }
