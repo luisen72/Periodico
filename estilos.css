@@ -12,7 +12,12 @@ html {
     background-color: palevioletred;
     margin-right: 150px;
     margin-left: 150px;
+    color: white;
 
+}
+
+.art2 h1{
+    color: palevioletred;
 }
 
 #titulo{
@@ -28,13 +33,54 @@ html {
     position: sticky;
     top: 60px;
     background-color: cadetblue;
-    border: black 1px solid;
-    width: 140px;
+    border: white 1px solid;
+    width: max-content;
     
     
 }
 
 #indice a {
+    color: red;
+    font-size: larger;
+    
+}
+
+#indice .sociedad:hover {
+    color: whitesmoke;
+    background-color: burlywood;
+}
+
+#indice .economia:hover {
+    color: whitesmoke;
+    background-color: cornflowerblue;
+}
+
+#indice .deportes:hover {
+    color: whitesmoke;
+    background-color: steelblue;
+}
+
+#indice .internacional:hover {
+    color: whitesmoke;
+    background-color: tomato;
+}
+
+#indice .salud:hover {
+    color: whitesmoke;
+    background-color: crimson;
+}
+
+#indice .tecnologia:hover {
+    color: whitesmoke;
+    background-color: goldenrod;
+}
+
+footer {
+    text-align: center;
+    
+}
+
+footer a {
     color: red;
     text-decoration: none;
 }
